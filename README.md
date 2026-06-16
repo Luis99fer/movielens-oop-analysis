@@ -109,42 +109,6 @@ Notebook report
 Statistics, insights, tests, and documentation
 ```
 
-## Repository Structure
-
-```text
-movielens-oop-analysis/
-│
-├── README.md
-├── .gitignore
-├── requirements.txt
-├── LICENSE
-│
-├── assets/
-│   ├── project_banner.png
-│   ├── pipeline_diagram.png
-│   └── module_architecture.png
-│
-├── src/
-│   └── movielens_analysis.py
-│
-├── notebooks/
-│   └── movielens_report.ipynb
-│
-├── data/
-│   └── README.md
-│
-├── tests/
-│   └── test_movielens_analysis.py
-│
-├── docs/
-│   ├── project_overview.md
-│   ├── dataset_description.md
-│   └── module_reference.md
-│
-└── reports/
-    └── analysis_summary.md
-```
-
 ## Main Features
 
 The project supports several types of analysis:
